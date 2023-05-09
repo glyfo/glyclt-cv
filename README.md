@@ -2,7 +2,7 @@
 
 glyclt handler communication with Container to support Computer Vision Development.
 
-Using emscripten to compile computer vision applications using OpenCV APIs.
+Use emscripten to compile computer vision applications using OpenCV APIs.
 The applications can be deployed using Web Worker Technology, providing a robust and scalable solution for web-based 
 computer vision tasks.
 
@@ -42,9 +42,6 @@ $ glyclt-cv setup build # this command building & setup container
 $ glyclt-cv setup stack
 ----------------------- Release  --------------------
 git       | 2.30.2
-rustc     | 1.64.0
-cargo     | 1.64.0
-sui       | 0.10.0
 ```
 ## 3 - Develop 
 
