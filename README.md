@@ -1,6 +1,6 @@
 # Glyfo Command Line Tool for Computer Vision.
 
-glyclt handler communication with Container to support Computer Vision Development.
+glyclt-cv handler communication with Container to support Computer Vision Development.
 
 Use emscripten to compile computer vision applications using OpenCV APIs.
 The applications can be deployed using Web Worker Technology, providing a robust and scalable solution for web-based 
@@ -21,15 +21,14 @@ $ wget -O /usr/local/bin/glyclt-cv wget -O /usr/local/bin/glyclt-cv https://gith
 $ chmod +x /usr/local/bin/glyclt-cv
 $ ./glyclt-cv
  Usage:  glyclt-cv 
-+ setup       : manage CV container 
-     + status   : validate if suiX is running on enviroment 
-     + build    : deploy & install enviroment to develop using sui blockchain 
-     + login    : login into container 
-     + reset    : restart container ( stop & start ) 
-     + info     : show version about software stack 
-     + backup   : export CV container
-     + delete   : delete container
-
++ setup  : manage CV container 
+     + build  : deploy & install enviroment to develop using OpenCV 
+     + status : validate if CV container is running on enviroment 
+     + reset  : restart container ( stop & start ) 
+     + info   : show version about software stack
+     + login  : login into container
+     + delete : delete CV container
+     + backup : export CV container
 v0.4.3
 
 ...
