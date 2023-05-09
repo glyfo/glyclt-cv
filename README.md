@@ -17,7 +17,7 @@ computer vision tasks.
 ## 1- Install 
 
 ```bash
-$ wget -O /usr/local/bin/glyclt-cv wget -O /usr/local/bin/glyclt-cv https://github.com/glyfo/glyclt-sui/releases/download/v0.3.3/glyclt-cv
+$ wget -O /usr/local/bin/glyclt-cv https://github.com/glyfo/glyclt-sui/releases/download/v0.0.5/glyclt-cv
 $ chmod +x /usr/local/bin/glyclt-cv
 $ ./glyclt-cv
  Usage:  glyclt-cv 
@@ -29,7 +29,7 @@ $ ./glyclt-cv
      + login  : login into container
      + delete : delete CV container
      + backup : export CV container
-v0.4.3
+v0.0.5
 
 ...
 ```
