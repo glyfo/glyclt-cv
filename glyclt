@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#####################################################################################
+# Copyright Glyfo Company. 2023. All Rights Reserved.                               #
+# Apache License, Version 2.0. See LICENSE file in the project root for details.    #
+# name    : Command Line Tool to build Computer Vision Apps using OpenCV            #
+# website : glyfo.com                                                               #
+# support : support@glyfo.com                                                       #
+#####################################################################################
+
